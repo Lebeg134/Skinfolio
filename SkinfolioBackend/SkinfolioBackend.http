@@ -1,0 +1,6 @@
+@SkinfolioBackend_HostAddress = http://localhost:5172
+
+GET {{SkinfolioBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
